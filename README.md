@@ -1,1 +1,2 @@
 # CanadianExperience
+Canadian Experience is a tool for creating simple animations. Built using wxWidgets, Canadian Experience allows the user create movies using key frames and save these in an XML file for future playback. This project contains two libraries CanadianExperienceLib and MachineLib. The former contains the code responsible for the bulk of the project including the animated actors and timeline. MachineLib is responsible for implementing the musical machines featured in the final application.
